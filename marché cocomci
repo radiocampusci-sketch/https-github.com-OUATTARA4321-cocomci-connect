@@ -1,0 +1,7 @@
+echo "# https-github.com-OUATTARA4321-cocomci-connect" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/radiocampusci-sketch/https-github.com-OUATTARA4321-cocomci-connect.git
+git push -u origin main
